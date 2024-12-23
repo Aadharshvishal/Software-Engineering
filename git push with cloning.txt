@@ -1,0 +1,36 @@
+open folder using vscode
+ 
+create a file in it
+ 
+type code
+
+create repository
+copy the codes
+click  new terminal
+
+ git clone https://github.com/Aadharshvishal/se-git.git
+
+ cd se-git
+
+README.md
+>> git init
+>> git add README.md
+>> git commit -m "first commit"
+>> git branch -M main
+>> git remote add origin https://github.com/Aadharshvishal/se.git
+>> git push -u origin main
+
+git add .
+
+ git commit -m "python"
+
+git push origin main
+
+give extra code in the given code
+
+git branch se1
+
+git checkout se1
+git add .
+git commit -m "py"
+git push origin se1
